@@ -51,10 +51,6 @@ progress:
         authors: 
         conference: 
              <br />
-      - title: "Kim, Okgi. Under review (2nd round). <strong>The syntax and semantics of <i>what</i>-exclamatives in Korean</strong>. <i>Language and Linguistics</i>. [SSCI, A&HCI]"
-        link: 
-        authors: 
-        conference: 
            
 
 publications:
@@ -62,6 +58,10 @@ publications:
     intro: |
 
     papers:
+      - title: Kim, Okgi. 2024. <strong>On the existence of Korean <i>what</i>-exclamatives</strong>. <i>Linguistic Research</i> 41(1). [SCOPUS]</a>
+        link: 
+        authors: 
+        conference: 
 
       - title: <a href="https://www.glossa-journal.org/article/id/8242/ " target="_blank">Kim, Dong-Jin, Okgi Kim (corresponding author), and Hanyong Park. 2023. <strong>Prosodic realization of identification and contrastive focus in Korean multiple accusative constructions</strong>. <i>Glossa</i> 8(1). [SSCI, A&HCI]</a>
         link: 
