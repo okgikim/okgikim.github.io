@@ -23,8 +23,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    ResearchGate: https://www.researchgate.net/profile/Okgi-Kim
-    GoogleScholar: https://scholar.google.com/citations?user=USiCyvgAAAAJ&hl=en&oi=ao
+    ResearchGate: 
+    GoogleScholar: 
     pdf: 
 
 
@@ -40,7 +40,7 @@ In 2022, I received a PhD in linguistics from the University of Wisconsin-Milwau
 Currently, I am an Academic Research Professor at the Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul." 
 
 
-           
+   
 
 publications:
     title: Peer-reviewed journal articles
