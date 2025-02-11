@@ -128,3 +128,13 @@ proceedings:
         authors: 
         conference:
 
+dissertation:
+    title: PhD Dissertation
+    intro: |
+
+    papers:
+        
+      - title: "Kim, Okgi. 2022. <strong>The syntax and semantics of non-standard <i>wh</i>-constructions in Korean</strong>. University of Wisconsin-Milwaukee."
+        link: https://ling.auf.net/lingbuzz/006743
+        authors:
+        conference: 
