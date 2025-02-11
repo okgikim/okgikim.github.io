@@ -349,7 +349,31 @@ teaching:
       details: |
             - Introduction to English Syntax
 
-    
+    - role: Spring 2023
+      time: 
+      company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
+      details: |
+            - Big Data and English Learning 
+            - History of the English Language
+            
+    - role: Fall 2022
+      time: 
+      company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
+      details: |
+            - Introduction to English Linguistics
+            - English Semantics and Pragmatics
+            
+    - role: Fall 2019 - Spring 2021
+      time: 
+      company: Department of Linguistics, University of Wisconsin-Milwaukee, USA
+      details: |
+            - The Diversity of Human Language (as a Sole Instructor)
+
+    - role: Fall 2018 - Spring 2019
+      time: 
+      company: Department of Linguistics, University of Wisconsin-Milwaukee, USA
+      details: |
+            - The Diversity of Human Language (as a Discussion Section Instructor)
+
 
             
-    
