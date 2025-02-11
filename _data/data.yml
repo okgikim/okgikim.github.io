@@ -32,5 +32,13 @@ career-profile:
     title: About 
     summary: I am a syntactician with research interests at the syntax-semantics interface. I am also interested in corpus linguistics and syntax/semantics-phonetics interface. In 2022, I received a PhD in linguistics from the University of Wisconsin-Milwaukee. Currently, I am an Academic Research Professor at the Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul." 
 
+publications:
+    title: Peer-reviewed journal articles
+    intro: |
 
+    papers:
+      - title: <a href="" target="_blank">Kim, Okgi. 2024. <strong>On the existence of Korean <i>what</i>-exclamatives</strong>. <i>Linguistic Research</i> 41(1) [SCOPUS]</a>
+        link: 
+        authors: 
+        conference: 
 
