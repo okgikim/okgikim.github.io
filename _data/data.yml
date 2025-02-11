@@ -28,7 +28,6 @@ sidebar:
     pdf: 
 
 
-
 career-profile:
     title: About 
     summary: I am a syntactician with research interests at the syntax-semantics interface. I am also interested in corpus linguistics and syntax/semantics-phonetics interface. In 2022, I received a PhD in linguistics from the University of Wisconsin-Milwaukee.
@@ -53,6 +52,7 @@ publications:
         link: https://www.tandfonline.com/doi/full/10.1080/0013838X.2023.2249724?src=
         authors: 
         conference:
+        
       - title: "Kim, Okgi. 2023. <strong>Korean reformulative accusative construction as vacuous reformulative apposition</strong>. <i>Linguistic Research</i> 40(2): 217-244. [SCOPUS]"
         link: http://isli.khu.ac.kr/journal/content/data/40_2/3.pdf
         authors: 
