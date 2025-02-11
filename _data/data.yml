@@ -138,3 +138,23 @@ dissertation:
         link: https://ling.auf.net/lingbuzz/006743
         authors:
         conference: 
+
+presentations:
+    title: Presentations
+    intro: |
+
+    papers:
+      - title: "Kim, Okgi and Jong-Bok Kim. 2024. <strong>English <i>why not?</i> fragment questions: A corpus-based perspective</strong>. Talk to be given at the 45th International Computer Archive of Modern and Medieval English (ICAME), 18-22 June 2024." 
+        link: 
+        authors: 
+        conference:
+    
+      - title: "Kim, Okgi and Jong-Bok Kim. 2023. <strong>Elliptical <i>why not?</i>: A corpus-based perspective</strong>. A talk given at The Linguistic Society of Korea Winter Conference. December 9." 
+        link: 
+        authors: 
+        conference:
+    
+      - title: "Kim, Okgi. 2023. <strong>Korean <i>what</i>-exclamatives and their implications</strong>. An invited talk given at The Korean Society for Language and Information. September 23." 
+        link: 
+        authors: 
+        conference: 
