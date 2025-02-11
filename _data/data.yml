@@ -286,13 +286,13 @@ experiences:
       company: Department of Linguistics, University of Wisconsin-Milwaukee, USA
       details: |
 
-teaching:
 
-    - role: Understanding English Syntactic Phenomena, Big Data and English Learning, Contrasts between English and Korean 
-      time: Spring 2025
-      company: Department of English Language and Literature, Kyung Hee University, Seoul
-      
-    - role: Semantics and Pragmatics of English, Contrastive Analysis of English and Korean
-      time: Fall 2024
-      company: Department of English Language and Literature, Kyung Hee University, Seoul
+teaching:
+    - role: Spring 2025
+      time: 
+      company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
+      details: |
+            - ENGLI3008 Foreign Language Acquisition
+            - ENGLI2005 Reading and Debating in English
+
 
