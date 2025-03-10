@@ -41,10 +41,10 @@ publications:
 
     papers:
 
-      %- title: "2025. <strong>Inverted specificational pseudoclefts as last resort for specificational afterthoughts</strong>. <i>Korean Journal of English Language and Linguistics</i>."
-        %link: 
-        %authors: 
-        %conference:
+      - title: "2025. <strong>Inverted specificational pseudoclefts as last resort for specificational afterthoughts</strong>. <i>Korean Journal of English Language and Linguistics</i>."
+        link: 
+        authors: 
+        conference:
         
       - title: "2024. <strong>On the existence of Korean <i>what</i>-exclamatives</strong>. <i>Linguistic Research</i> 41(1): 135-168."
         link: https://www.researchgate.net/publication/379333945_On_the_existence_of_Korean_degree_what-exclamatives
