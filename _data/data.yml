@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: okgikim@khu.ac.kr
+    email: okgi.kim@gmail.com
     phone: 
     website: https://okgikim.github.io  #do not add http://
     ORCiD: 0009-0002-2092-0886
@@ -33,7 +33,7 @@ CV:
 
 career-profile:
     title: About 
-    summary: I'm an academic research professor at the Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul. 
+    summary: I'm an assistant professor at Gyeongkuk National University. 
 
 progress:
     title: work in progress
