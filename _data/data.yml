@@ -33,8 +33,14 @@ CV:
 
 career-profile:
     title: About 
-    summary: I'm an assistant professor in the department of English education at Gyeongkuk National University. 
-    summary:       Research Institute of Subject Matter Education
+    - title: I'm an assistant professor in the department of English education at Gyeongkuk National University.
+        link: 
+        authors: 
+        conference:  
+    - title: Research Institute of Subject Matter Education
+        link: 
+        authors: 
+        conference: 
 
 progress:
     title: work in progress
