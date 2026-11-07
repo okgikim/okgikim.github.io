@@ -44,7 +44,7 @@ publications:
 
     papers:
 
-      - title: "in revision (conditionally accepted). <strong>A&HCI paper</strong>. <i> </i>"
+      - title: "in prep. <strong>LLM ethical stance</strong>. <i> </i>"
         link: 
         authors: Okgi Kim, Jong-Bok Kim
         conference:
@@ -57,6 +57,11 @@ publications:
       - title: "under review. <strong>KCI paper</strong>. <i> </i>"
         link: 
         authors: Okgi Kim
+        conference:
+
+      - title: "in revision (conditionally accepted). <strong>A&HCI paper</strong>. <i> </i>"
+        link: 
+        authors: Okgi Kim, Jong-Bok Kim
         conference:
 
       - title: "to appear. <strong>English Article Use in Large Language Models: Revisiting the Fluctuation Hypothesis</strong>. <i>The Korean Journal of Linguistics</i>"
