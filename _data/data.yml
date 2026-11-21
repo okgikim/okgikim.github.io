@@ -35,7 +35,16 @@ career-profile:
     title: About 
     summary: I'm an assistant professor in the department of English education at Gyeongkuk National University.
         
+publications:
+    title: invited talks
+    intro: |
 
+    papers:
+    
+      - title: "under review. <strong>KCI</strong>. <i> </i>"
+        link: 
+        authors: Okgi Kim
+        conference:
 
 
 publications:
